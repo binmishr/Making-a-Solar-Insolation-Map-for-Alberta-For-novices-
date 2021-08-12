@@ -1,0 +1,1 @@
+# Making-a-Solar-Insolation-Map-for-Alberta-For-novices-
